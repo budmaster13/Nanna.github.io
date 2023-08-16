@@ -79,3 +79,19 @@
   </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mom's Pictures</title>
+</head>
+<body>
+
+<h1>Mom's Pictures</h1>
+
+<img src="/images/CAM00366~3.jpg" alt="Mom's Picture">
+<img src="/images/mom-pics-folder/mom-pics-thumbnail.jpg" alt="Mom's Pictures">
+
+<!-- Add more images or content as needed -->
+
+</body>
+</html>
