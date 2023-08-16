@@ -70,7 +70,11 @@
     <h2>Picture Presentation</h2>
     <a href="/Moms_Pics.html" class="picture-presentation-link" target="_blank">
       <img src="/images/mom-pics-folder/mom-pics-thumbnail.jpg" alt="Mom's Pictures">
-      Click here to view pictures
+      Click here to view pictures<h2>Picture Presentation</h2>
+<video width="640" height="360" controls>
+  <source src="/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
     </a>
   </div>
 </body>
